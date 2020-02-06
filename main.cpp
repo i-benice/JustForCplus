@@ -1,4 +1,4 @@
 int main()
 {
- delete
+ 1
 }
