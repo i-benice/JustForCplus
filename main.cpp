@@ -1,1 +1,1 @@
-void func()
+shared_ptr
